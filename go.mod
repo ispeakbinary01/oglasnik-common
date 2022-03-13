@@ -1,4 +1,4 @@
-module gitlab.com/ispeakbinary01/oglasnik-common
+module github.com/ispeakbinary01/oglasnik-common
 
 go 1.17
 
