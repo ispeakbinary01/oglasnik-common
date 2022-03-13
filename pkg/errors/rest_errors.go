@@ -74,3 +74,5 @@ func SendRestError(c echo.Context, err string, msg ...string) error {
 const RestUnableToGetOne = "RestUnableToGetOne"
 
 const RestUnableToGetMany = "RestUnableToGetMany"
+
+const RestUnableToRegisterUser = "RestUnableToRegisterUser"
